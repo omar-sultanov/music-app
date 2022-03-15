@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/music-app/static/css/main.faebbaad.chunk.css",
+    "main.js": "/music-app/static/js/main.b5e24a9c.chunk.js",
+    "main.js.map": "/music-app/static/js/main.b5e24a9c.chunk.js.map",
+    "runtime-main.js": "/music-app/static/js/runtime-main.ae9ba98e.js",
+    "runtime-main.js.map": "/music-app/static/js/runtime-main.ae9ba98e.js.map",
+    "static/js/2.74d20629.chunk.js": "/music-app/static/js/2.74d20629.chunk.js",
+    "static/js/2.74d20629.chunk.js.map": "/music-app/static/js/2.74d20629.chunk.js.map",
+    "index.html": "/music-app/index.html",
+    "static/css/main.faebbaad.chunk.css.map": "/music-app/static/css/main.faebbaad.chunk.css.map",
+    "static/js/2.74d20629.chunk.js.LICENSE.txt": "/music-app/static/js/2.74d20629.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae9ba98e.js",
+    "static/js/2.74d20629.chunk.js",
+    "static/css/main.faebbaad.chunk.css",
+    "static/js/main.b5e24a9c.chunk.js"
+  ]
+}
