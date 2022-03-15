@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Karantina:wght@400;700&display=swap');
+.Player{
+  width: 280px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+  background-color: cadetblue;
+  box-shadow: cadetblue 0px 0px 15px;
+  border-radius: 3px;
+  font-family: 'Karantina', cursive;
+}
+
+.Player .image img{
+  width: 70%;
+  border-radius: 50%;
+   box-shadow: rgb(189, 233, 235) 0px 0px 15px;
+}
+.image{
+ display: flex;
+ justify-content: center;
+}
+.App{
+  display: flex;
+  justify-content: center;
+}
+.Player .artist{
+padding-top: 10px;
+color: rgb(93, 90, 90);
+}
+
+.controls button{
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.controls button i{
+  font-size: 20px;
+}
+.controls button i:hover{
+  color: aliceblue;
+}
+
+audio::-webkit-media-controls-panel{
+  background-color: cadetblue;
+  height: 30px;
+}
+#audioItem{
+  height: 30px;
+  outline: none;
+  background-color: cadetblue;
+}
+audio::-webkit-media-controls-play-button{
+display: none;
+}
+audio::-webkit-media-controls-enclosure {
+  border-radius: 2px;
+
+}
